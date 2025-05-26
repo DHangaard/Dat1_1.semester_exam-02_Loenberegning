@@ -1,4 +1,4 @@
-# Dat1, 1.semester exam - 02 Lønberegning
+# Dat1, 1. semester exam - 02 Lønberegning
 
 Assignment
 
